@@ -1,1 +1,3 @@
 # job_insight
+
+The Job Insight Dashboard is an interactive web-based application designed to provide valuable insights into the job market. It aggregates job listings, analyzes data on job titles, salary distributions, and locations, and visualizes these trends using various graphical representations. Built using Python, Streamlit, and Pandas, this dashboard enables users to explore the top job titles, salary ranges, and locations, offering an intuitive way to understand job market trends. This project is aimed at professionals, job seekers, and analysts who want to gain a deeper understanding of employment trends in real-time.
